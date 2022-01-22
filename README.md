@@ -1,7 +1,11 @@
 legacim-bootstrap
 ===
 
-legacim-bootstrap is the not-so-lightweight version of legacim, a frontend scaffold to build simple web pages (or web apps) that run even in IE6.
+legacim-bootstrap is the not-so-lightweight version of [legacim](https://github.com/shunf4/legacim), a frontend scaffold to build simple web pages (or web apps) that run even in IE6.
+
+In legacy IE browsers of course not all features work, but pages will have basic readability and interoperability.
+
+legacim-bootstrap is shipped with Bootstrap 2.3.2, which brings lots of UI features. But selectivizr2 is not imported in consideration of compatibility, so some CSS selectors are not usable.
 
 ### Features
 
