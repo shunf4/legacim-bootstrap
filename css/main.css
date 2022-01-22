@@ -1,0 +1,24 @@
+.browserupgrade {
+  padding: 15px;
+
+  text-align: center;
+
+  color: white;
+  background: #333333;
+}
+
+.browserupgrade a {
+  text-decoration: none;
+
+  color: dodgerblue;
+
+  font-weight: bold;
+}
+
+.browserupgrade a:hover {
+  text-decoration: underline;
+}
+
+p:hover {
+  color: red;
+}

@@ -1,0 +1,20 @@
+
+.row-fluid .span1,
+.row-fluid .span2,
+.row-fluid .span3,
+.row-fluid .span4,
+.row-fluid .span5,
+.row-fluid .span6,
+.row-fluid .span7,
+.row-fluid .span8,
+.row-fluid .span9,
+.row-fluid .span10,
+.row-fluid .span11,
+.row-fluid .span12 {
+  margin-left: 1.7%;
+  *margin-left: 1.6%;
+}
+
+.row-fluid .span-first-child {
+  margin-left: 0;
+}
